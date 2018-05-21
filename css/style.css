@@ -1,0 +1,12 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+.card p {
+    text-align: justify;
+    text-justify: inter-word;
+}
