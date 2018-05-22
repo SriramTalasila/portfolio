@@ -10,3 +10,16 @@ body {
     text-align: justify;
     text-justify: inter-word;
 }
+#logo{
+    float: left;
+}
+h1{
+    margin-top: 1%;
+}
+.card{
+    width:260px;
+    margin-top:5%;
+}
+article{
+    margin-left:2%;
+}
